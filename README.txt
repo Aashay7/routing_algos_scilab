@@ -2,8 +2,8 @@ README
 
 I. Authors
 
-Sachin Gopal (15BCE1188)
 Aashay Gondalia (15BCE1284)
+Sachin Gopal (15BCE1188)
 Dhruv Dixit (15BCE1324)
 School of Computing Science and Engineering
 VIT Chennai
@@ -35,9 +35,9 @@ The algorithms that are implemented on SCILAB-5.5.2 are as follows:
 3. Bellman-Ford
 4. DFS (Depth First Search)
 5. DFS Weighted
-6. Dijkstra’s Algorithm
-7. Floyd Warshall’s Algorithm
-8. Prim’s Algorithm
+6. Dijkstraâ€™s Algorithm
+7. Floyd Warshallâ€™s Algorithm
+8. Primâ€™s Algorithm
 
 NOTE:
 
